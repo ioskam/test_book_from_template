@@ -30,6 +30,7 @@ parts:
       - file: syntax_exercises/012.md
       - file: syntax_exercises/013.md
     - file: question_matrix.md
+      sections:
       - file: test/question_matrix_test1.md
     - file: references.md
     - file: changelog.md
