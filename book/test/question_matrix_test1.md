@@ -11,12 +11,13 @@ tekst  tekst  tekst  tekst
 What is 2 + 2?
 
 ---
-
 [ ] 3
 [x] 4
 [ ] 5
 [ ] 6
+---
 
+This is the end of the question.
 ::::
 
 % solution_start
