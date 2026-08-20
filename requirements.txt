@@ -5,16 +5,14 @@
 # download_link_replacer
 # sphinx-exercise
 # teachbooks-sphinx-tippy
-# sphinx-iframes
+sphinx-iframes
 # sphinx-named-colors
 # sphinx-dropdown-toggle
+teachbooks
 
 ## Now list the packages you want to download directly from GitHub
 # git+https://github.com/TeachBooks/Sphinx-Thebe
 
-
-# first list the packages you wish to download from PyPI
-teachbooks
 
 git+https://github.com/TeachBooks/TeachBooks-Favourites@all_authors #BUMP
 
