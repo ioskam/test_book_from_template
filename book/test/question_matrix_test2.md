@@ -126,13 +126,13 @@ M[1]
 M[-5.5]
 ^^^
 ? Bepaal de waarde van de vrijheidsgraden $\varphi_{\rm{B}}$, $\varphi_{\rm{C}}$, $\varphi_{\rm{D}}$ en $\varphi_{\rm{E}}$.
----
+
 - $\varphi_{\rm{A}} = ${gap}$ \rm{mrad} $
 - $\varphi_{\rm{B}} = ${gap}$ \rm{mrad} $
 - $\varphi_{\rm{C}} = ${gap}$ \rm{mrad} $
 - $\varphi_{\rm{D}} = ${gap}$ \rm{mrad} $
 - $\varphi_{\rm{E}} = ${gap}$ \rm{mrad} $ 
-
+---
 ::::
 
 % solution_start
