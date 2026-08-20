@@ -9,14 +9,13 @@
 :showanswer:
 
 ---
-M[\begin{pmatrix} 4000 & 2000 \\\ 2000 & 4000 \end{pmatrix}]
+M[\begin{pmatrix} M_{\rm{A}} \\\ 0 \\\ 73 \\\ 0 \\\ 0 \end{pmatrix}]
+
 ^^^
-? Bepaal de elementstijfheidsmatrix $\mathbf{K}^{(e)}$ voor een willekeurig element.
-
-$\mathbf{K}^{(e)} = $ {gap}
-
+? Bepaal de krachtvector $\mathbf{F}$.
 ---
 
+$$\mathbf{F} = $ {gap} $ $$
 ::::
 
 % solution_start
@@ -24,54 +23,9 @@ $\mathbf{K}^{(e)} = $ {gap}
 ::::{admonition} Uitwerking
 :class: solution, dropdown
 
-$$\mathbf{K}^{(e)} = \begin{bmatrix} \cfrac{4EI}{l} & \cfrac{2EI}{l} \\ \cfrac{2EI}{l} & \cfrac{4EI}{l} \end{bmatrix} = \begin{bmatrix} 4000 & 2000 \\ 2000 & 4000 \end{bmatrix}$$
+Alleen knoop $\rm{C}$ is belast met een extern koppel van $73 \rm{kNm}$ rechtsom (dus positief). 
 
-::::
-
-% solution_end
-
-::::{question} Opgave
-:type: short-answer
-:variant: gaps
-:admonition:
-:class: exercise
-:nocaption:
-:showanswer:
-
----
-M[\begin{bmatrix} 4000 & 2000 & 0 & 0 & 0 \\\ 2000 & 12000 & 2000 & 2000 & 0 \\\ 0 & 2000 & 8000 & 0 & 2000 \\\ 0 & 2000 & 0 & 4000 & 0 \\\ 0 & 0 & 2000 & 0 & 4000 \end{bmatrix}]
-^^^
-? Bepaal de globale stijfheidsmatrix $\mathbf{K}$.
-
-$\mathbf{K} = $ {gap}
-
----
-
-::::
-
-% solution_start
-
-::::{admonition} Uitwerking
-:class: solution, dropdown
-
-De globale stijfheidsmatrix kan uit de elementstijfheidsmatrices worden bepaald door de elementen te plaatsen in de rijen en kolommen behorend bij de knopen en op te tellen.
-
-$$\mathbf{K} =
-\begin{bmatrix} 
-4000 & 2000 & 0 & 0 & 0 \\ 
-2000 & 4000+4000+4000 & 2000 & 2000 & 0 \\ 
-0 & 2000 & 4000+4000 & 0 & 2000 \\ 
-0 & 2000 & 0 & 4000 & 0 \\ 
-0 & 0 & 2000 & 0 & 4000 
-\end{bmatrix}
-=
-\begin{bmatrix} 
-4000 & 2000 & 0 & 0 & 0 \\ 
-2000 & 12000 & 2000 & 2000 & 0 \\ 
-0 & 2000 & 8000 & 0 & 2000 \\ 
-0 & 2000 & 0 & 4000 & 0 \\ 
-0 & 0 & 2000 & 0 & 4000 
-\end{bmatrix}$$
+$$\mathbf{F} = \begin{bmatrix} M_{\rm{A}} \\ 0 \\ 73 \\ 0 \\ 0 \end{bmatrix}$$
 
 ::::
 
