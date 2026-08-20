@@ -2,24 +2,21 @@
 
 tekst  tekst  tekst  tekst
 
-::::{question} Opgave
-:type: short-answer
-:variant: gaps
-:admonition:
-:class: exercise
-:nocaption:
-:showanswer:
+# Test question
+
+::::{question} What is 2 + 2?
+:type: multiple-choice
+:variant: single-select
+
+What is 2 + 2?
 
 ---
-M[4000]
-M[2000]
-M[2000]
-M[4000]
-^^^
-? Bepaal de elementstijfheidsmatrix $\mathbf{K}^{(e)}$ voor een willekeurig element.
----
 
-$$\mathbf{K}^{(e)} = \begin{bmatrix} ${gap}$ & ${gap}$ \\ ${gap}$ & ${gap}$ \end{bmatrix}$$
+[ ] 3
+[x] 4
+[ ] 5
+[ ] 6
+
 ::::
 
 % solution_start
