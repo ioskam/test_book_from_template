@@ -1,3 +1,7 @@
+# Opgave
+
+tekst  tekst  tekst  tekst
+
 ::::{question} Opgave
 :type: short-answer
 :variant: gaps
@@ -28,3 +32,5 @@ $$\mathbf{K}^{(e)} = \begin{bmatrix} \cfrac{4EI}{l} & \cfrac{2EI}{l} \\ \cfrac{2
 ::::
 
 % solution_end
+
+tekst  tekst  tekst  tekst
