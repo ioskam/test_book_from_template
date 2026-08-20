@@ -11,10 +11,10 @@
 ---
 M[\begin{pmatrix} 1 & 2 \\\  3 & 4 \end{pmatrix}]
 ^^^
-? Bepaal de elementstijfheidsmatrix $\mathbf{K}^{(e)}$ voor een willekeurig element.
+? Bepaal de normaalkrachten in alle staven als functie van $A_{\rm{v}}$, met  $A_{\rm{v}}$ in $\rm{kN}$, $M_{\rm{B}}$ in $\rm{kNm}$, $\varphi_{\rm{B}}$ in $\rm{rad}$ en $w_{\rm{A}}$ in $\rm{m}$.
 
-$$\mathbf{K}^{(e)} = $ {gap} $ $$
+- $M_{\rm{B}} = $ {gap} $ (◠)
+
 ---
 
 ::::
-
