@@ -9,7 +9,7 @@
 :showanswer:
 
 ---
-MAP[\begin{bmatrix} 100 \end{bmatrix};1]
+MAP[100;1]
 ^^^
 ? Bepaal de elementstijfheidsmatrix $\mathbf{K}^{(e)}$ voor een willekeurig element.
 ---
