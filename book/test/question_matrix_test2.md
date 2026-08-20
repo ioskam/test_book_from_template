@@ -1,18 +1,5 @@
 # Begeleide oefening
 
-% source files on https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/matrix_2
-
-Gegeven is de volgende constructie:
-
-```{figure} lesoefening1_data/constructie.svg
-:align: center
-
-Constructie, $EI = 4 \ \rm{MNm}^2, EA >> EI$
-```
-
-Gegeven is $\mathbf{u} = \begin{bmatrix} \varphi_{\rm{A}} & \varphi_{\rm{B}} & \varphi_{\rm{C}} & \varphi_{\rm{D}} & \varphi_{\rm{E}} \end{bmatrix}^T$.
-
-
 ::::{question} Opgave
 :type: short-answer
 :variant: gaps
