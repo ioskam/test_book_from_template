@@ -6,7 +6,7 @@ tekst  tekst  tekst  tekst
 :type: short-answer
 :variant: gaps
 :admonition:
-:class-body: exercise
+:class: exercise
 :nocaption:
 :showanswer:
 
