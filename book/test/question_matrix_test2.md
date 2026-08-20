@@ -187,7 +187,7 @@ $$
 
 Het bovenstaande stelsel kan vervolgens worden opgelost voor $\varphi_{\rm{B}}$, $\varphi_{\rm{C}}$, $\varphi_{\rm{D}}$ en $\varphi_{\rm{E}}$. 
 
-$\mathbf{u} = \begin{bmatrix} 0 \\ -\cfrac{1}{500} \\ \cfrac{11}{1000} \\ \cfrac{1}{1000} \\ -\cfrac{11}{2000} \end{bmatrix}$ \, \rm{in} \, $\rm{rad}$
+$\mathbf{u} = \begin{bmatrix} 0 \\ -\cfrac{1}{500} \\ \cfrac{11}{1000} \\ \cfrac{1}{1000} \\ -\cfrac{11}{2000} \end{bmatrix} \, \rm{in} \, \rm{rad}$
 
 ::::
 
