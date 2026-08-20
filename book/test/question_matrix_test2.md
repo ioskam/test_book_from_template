@@ -9,12 +9,12 @@
 :showanswer:
 
 ---
-M[\begin{pmatrix} M_{\rm{A}} \\\ 0 \\\ 73 \\\ 0 \\\ 0 \end{pmatrix}]
+M[\begin{pmatrix} M_A \\\ 0 \\\ 73 \\\ 0 \\\ 0 \end{pmatrix}]
 
 ^^^
 ? Bepaal de krachtvector $\mathbf{F}$.
 
-$$\mathbf{F} = $ {gap}
+$\mathbf{F} = $ {gap}
 
 ---
 ::::
