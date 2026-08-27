@@ -31,8 +31,7 @@ parts:
       - file: syntax_exercises/013.md
     - file: question_matrix.md
       sections:
-      - file: test/question_matrix_test1.md
-      - file: test/question_matrix_test2.md
+      - file: test/test_bestand.md
     - file: references.md
     - file: changelog.md
     - file: credits.md
