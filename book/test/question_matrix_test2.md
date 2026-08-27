@@ -32,18 +32,16 @@ $$\mathbf{K}^{(e)} = \begin{bmatrix} \cfrac{4EI}{l} & \cfrac{2EI}{l} \\ \cfrac{2
 
 ::::{question} Opgave
 :type: short-answer
-:variant: gaps
+:variant: blocks
 :admonition:
 :class: exercise
 :nocaption:
 :showanswer:
 
 ---
-M[\begin{bmatrix} 4000 & 2000 & 0 & 0 & 0 \\\ 2000 & 12000 & 2000 & 2000 & 0 \\\ 0 & 2000 & 8000 & 0 & 2000 \\\ 0 & 2000 & 0 & 4000 & 0 \\\ 0 & 0 & 2000 & 0 & 4000 \end{bmatrix}]
-^^^
-? Bepaal de globale stijfheidsmatrix $\mathbf{K}$.
+Bepaal de globale stijfheidsmatrix $\mathbf{K}$.
 
-$\mathbf{K} = $ {gap}
+$\mathbf{K} = $ [\begin{bmatrix} 4000 & 2000 & 0 & 0 & 0 \\\ 2000 & 12000 & 2000 & 2000 & 0 \\\ 0 & 2000 & 8000 & 0 & 2000 \\\ 0 & 2000 & 0 & 4000 & 0 \\\ 0 & 0 & 2000 & 0 & 4000 \end{bmatrix}]
 
 ---
 
@@ -86,12 +84,9 @@ $$\mathbf{K} =
 :showanswer:
 
 ---
-M[\begin{pmatrix} M_A \\\ 0 \\\ 73 \\\ 0 \\\ 0 \end{pmatrix}]
+Bepaal de krachtvector $\mathbf{F}$.
 
-^^^
-? Bepaal de krachtvector $\mathbf{F}$.
-
-$\mathbf{F} = $ {gap}
+$\mathbf{F} = $ {[\begin{pmatrix} M_A \\\ 0 \\\ 73 \\\ 0 \\\ 0 \end{pmatrix}]
 
 ---
 ::::
