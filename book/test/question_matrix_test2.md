@@ -39,9 +39,8 @@ $$\mathbf{K}^{(e)} = \begin{bmatrix} \cfrac{4EI}{l} & \cfrac{2EI}{l} \\ \cfrac{2
 :showanswer:
 
 ---
-Bepaal de globale stijfheidsmatrix $\mathbf{K}$.
 
-M[\begin{bmatrix} 4000 & 2000 & 0 & 0 & 0 \\\ 2000 & 12000 & 2000 & 2000 & 0 \\\ 0 & 2000 & 8000 & 0 & 2000 \\\ 0 & 2000 & 0 & 4000 & 0 \\\ 0 & 0 & 2000 & 0 & 4000 \end{bmatrix}]
+M[\begin{bmatrix} 4000 & 2000 & 0 & 0 & 0 \\\ 2000 & 12000 & 2000 & 2000 & 0 \\\ 0 & 2000 & 8000 & 0 & 2000 \\\ 0 & 2000 & 0 & 4000 & 0 \\\ 0 & 0 & 2000 & 0 & 4000 \end{bmatrix}] Bepaal de globale stijfheidsmatrix $\mathbf{K}$.
 
 ---
 
@@ -84,9 +83,8 @@ $$\mathbf{K} =
 :showanswer:
 
 ---
-Bepaal de krachtvector $\mathbf{F}$.
 
-M[\begin{pmatrix} M_A \\\ 0 \\\ 73 \\\ 0 \\\ 0 \end{pmatrix}]
+M[\begin{pmatrix} M_A \\\ 0 \\\ 73 \\\ 0 \\\ 0 \end{pmatrix}] Bepaal de krachtvector $\mathbf{F}$.
 
 ---
 ::::
