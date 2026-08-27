@@ -77,7 +77,7 @@ $$\mathbf{K} =
 
 ::::{question} Opgave
 :type: short-answer
-:variant: gaps
+:variant: blocks
 :admonition:
 :class: exercise
 :nocaption:
