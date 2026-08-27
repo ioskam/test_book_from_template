@@ -33,7 +33,6 @@ parts:
       sections:
       - file: test/question_matrix_test1.md
       - file: test/question_matrix_test2.md
-      - file: test2/kracht_methode.md
     - file: references.md
     - file: changelog.md
     - file: credits.md
